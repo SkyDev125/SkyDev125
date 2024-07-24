@@ -1,6 +1,7 @@
 ### Heyoo! I'm Diogo Santos ~ Sky
 
-- 🔭 Working on making a crazy Keyboard!
+- 🔭 Computer science and engineering student at IST Portugal!
+- Trying my best to make this world slightly a better place :3
 
 <div>
   <a href="https://github.com/skydev125">
